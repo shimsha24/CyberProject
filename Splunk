@@ -1,2 +1,5 @@
 
-Download https://www.splunk.com/en_us/download/splunk-enterprise.html
+Download and install https://www.splunk.com/en_us/download/splunk-enterprise.html
+Downlaod and install splunk universal forwarder on windows machine https://www.splunk.com/en_us/download/universal-forwarder.html?locale=en_us
+Check the universal forwarder inside apps and feature section of you are device to confirm whether it is installed successfully
+Goto Splunk dashboard -> settings -> Forwarding and receiving -> Receive data -> select Configure receiving -> select New Receiving port -> Configure receiving -> Listen on this port to 9997 -> save
