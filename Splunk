@@ -3,3 +3,5 @@ Download and install https://www.splunk.com/en_us/download/splunk-enterprise.htm
 Downlaod and install splunk universal forwarder on windows machine https://www.splunk.com/en_us/download/universal-forwarder.html?locale=en_us
 Check the universal forwarder inside apps and feature section of you are device to confirm whether it is installed successfully
 Goto Splunk dashboard -> settings -> Forwarding and receiving -> Receive data -> select Configure receiving -> select New Receiving port -> Configure receiving -> Listen on this port to 9997 -> save
+Goto apps -> search and reporting -> Data Summary check for the host. It will show the host machines where the forwarder is installed.
+Download BOTS V2 Dataset (Attack Only) from https://github.com/splunk/botsv2
